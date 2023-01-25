@@ -7,7 +7,7 @@ Bioinformatics workshop we have had from Monday 23 January to 27 January,Friday
 **Installation of tools
 Git bash ,R Studio
 
-# Day three
+# Day two
 Introduction to commandline
 
 # Day three
